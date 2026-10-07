@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ethiopian Tourism Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <aside class="side-banner">
+    <img src="sidebanner.jpeg" alt="Ethiopia, with the green, yellow, and red flag and the star">
+  </aside>
+  <div class="page">
+    <section class="hero">
+      <img class="top-banner" src="topbanner.jpeg" alt="" aria-hidden="true">
+      <div class="hero-content">
+        <p class="eyebrow">Ethiopian tourism and travel</p>
+        <h1>Search the collection</h1>
+        <p class="lede" id="lede">Documents on places, festivals, food, and practical travel.</p>
+        <form id="search-form" role="search">
+          <label class="query-label" for="query">Query</label>
+          <div class="search-bar">
+            <input id="query" name="q" type="search" placeholder="Search" autocomplete="off" required>
+            <label class="model-label" for="model">Model</label>
+            <select id="model" name="model">
+              <option value="bm25">BM25</option>
+              <option value="tfidf">TF-IDF</option>
+              <option value="boolean">Boolean</option>
+              <option value="expansion">BM25 + expansion</option>
+            </select>
+            <button type="submit" id="search-button">Search</button>
+          </div>
+          <p class="hint" id="boolean-hint" hidden>A Boolean query with no operators requires every word. AND, OR, NOT, and parentheses are accepted.</p>
+        </form>
+      </div>
+    </section>
+
+    <main>
+    <p class="status" id="status" aria-live="polite"></p>
+    <ol class="results" id="results"></ol>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
