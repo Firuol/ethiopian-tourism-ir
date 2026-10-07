@@ -1,0 +1,68 @@
+Document ID: ET200
+Title: Koobi Fora
+URL: https://en.wikipedia.org/wiki/Koobi_Fora
+Source: Wikipedia
+Topic: attractions
+License: CC BY-SA 4.0
+
+Koobi Fora  refers primarily to a region around Koobi Fora Ridge, located on the eastern shore of Lake Turkana in the territory of the nomadic Gabbra people. According to the National Museums of Kenya, the name comes from the Gabbra language:
+
+In the language of the Gabbra people who live near the site, the term Koobi Fora means a place of the commiphora and the source of myrrh...
+
+The ridge itself is an outcrop of mainly Pliocene/Pleistocene sediments. It is composed of claystones, siltstones, and sandstones that preserve numerous fossils of terrestrial mammals, including early hominin species. Presently, the ridge is being eroded into a badlands terrain by a series of ephemeral rivers that drain into the northeast portion of modern Lake Turkana. In 1968 Richard Leakey established the Koobi Fora Base Camp on a large sandspit projecting into the lake near the ridge, which he called the Koobi Fora Spit.
+Consequently, the government of Kenya in 1973 reserved the region as Sibiloi National Park, establishing a headquarters for the National Museums of Kenya on Koobi Fora Spit. The reserve is well-maintained and is well-guarded by friendly but armed park police. Protection of sites and especially of wildlife are of prime concern. Exploration and excavation continue under the auspices of the Koobi Fora Research Project (KFRP), which collaborates with a number of interested universities and individuals across the world.
+Formerly the term Koobi Fora has been used to mean one or two initial sites, or the sand spit. Today it can mean any or all points in Sibiloi National Park. The term East Turkana also has come into use with the larger meaning.
+
+Archaeological sites and artifacts
+
+Archaeological sites
+The simple hierarchy of scientific places for Koobi Fora is the following:  Koobi Fora is the region; the region is divided into fossil collecting areas (e.g., Area 102, 103, 140, etc.); within fossil collection areas there are archaeological sites (e.g., FxJj 1, FxJj 10, etc.) and hominin palaeontological localities, which are usually named after the National Museum of Kenya accession number assigned to the important bones found.  For example, in Area 131 hominin skull KNM-ER 1470 was found. The fossils found here, including all the non-human ones, are assigned to the 1470 locality.
+Locating and referencing the hundreds of sites in the Koobi Fora region has been an ongoing process. The entire reservation was divided into somewhat over 100 numbered areas. When there were only a relatively few sites it sufficed to locate them with pinpricks on aerial photos and reference them by stating the area. The archaeologists, such as Glynn Isaac, developed a co-ordinate system. A site acquired a tag consisting of a 4-letter co-ordinate identifier, such as FxJj, which refers to a small section at the intersection of x and j within a larger section at the intersection of F and J, followed by the number of the site: FxJj 82 refers to the 82nd site within FxJj. In the year 2000 the KFRP went over to a GPS system and has been trying to correlate the pinpricks to its data.
+
+Fossils are labelled with a KNM (Kenya National Museums) accession number, assigned on no other basis than the order in which it was assigned. The number may be preceded in scholarly literature by KNM, KNM-ET or KNM-ER, where ET and ER stand for East Turkana and East Rudolf, respectively, or just plain ER. Some notable areas are as follows.
+
+Area 105
+The first archaeological site, i.e., FxJj 1, was found in Area 105. It is nicknamed the KBS site for Kay Behrensmeyer Site, after Kay Behrensmeyer, the researcher who first found stone tools there. This site is also the place where the first tuff was found, i.e., the KBS Tuff.
+
+Area 131
+Known as the location of Skull 1470, which was discovered by Bernard Ngeneo in 1972, reconstructed by Meave Leakey, and later reconstructed and named Homo habilis by Richard Leakey as possibly the first of the genus Homo. Then Homo rudolfensis was found by Richard Leakey below the 1.89 million year old KBS tuff; thus, it is older than that date, but is conventionally dated to it.
+
+Fossil finds
+
+Searching for and finding fossils in such a large area is difficult. One solution has been to organise all persons present into a group to sweep a designated area. Richard Leakey devised a method that produced better results: he organised and trained a search team of Kenyans, which became known as "the hominid gang", under the leadership of Kamoya Kimeu—"hominid" was then the term used for the present-day meaning of "hominin". They found the majority of the 200-plus hominin fossils discovered to date.
+Koobi Fora is perhaps best known for its specimens of the genus Homo, but those of the genus Australopithecus also have been found. The following species are represented:
+
+Australopithecus and Homo seem to have coexisted in African regions for several hundred thousand years. One possible explanation is different food sources. It appears that the Australopithecus genus evolved in eastern Africa around 4 million years ago before spreading throughout the continent and eventually becoming extinct somewhat after 2 million years ago.
+
+Stone tools
+
+Large quantities of stone tools have been found at Koobi Fora both on the surface and in caches, which have dates of their own, but are seldom in association with hominins. No other candidates for their manufacture have been found, however. The tools are Olduwan and Acheulean. The Koobi Fora community has devised the following terminology to describe three local industries:
+
+The initial archaeology, experimental archaeology, and scientific analysis of the tools were performed by J. W. K. Harris, Nicholas Toth and Glynn Isaac. Harris and Braun report their line of investigation:
+
+Hominid technology represents a conduit between the hominid and access to resources such as meat and marrow.
+According to the analysis, the conduit became more efficient between KBS and Karari Olduwan; that is, hominins obtained more of a return for a given output of energy and could do more. The chief technological development was the edge. The KBS utilised ".977 cm of edge per gram of mass", but the Karari utilised "2.4 cm of edge", etc., an advantage obtained through a "core reduction strategy"; that is, more and thinner flakes per mass of cores. This "flake production model" made possible a better "flake utility model." More and better flakes meant better utilisation of carcasses and therefore a need for fewer carcasses, less hunting, etc. Moreover, the increased number of flakes available made ranging farther from the source of the stone possible and endowed more staying power to the hunt.
+
+Stratigraphy
+Koobi Fora encompasses a small depocenter, underlain by Pliocene basalts and filled with nearly 600 meters of Pliocene-Pleistocene sediments, dating from about four-million to one-million years ago. These sediments are attributed to the Koobi Fora Formation, which consists of eight members that are delimited by water-lain tuffs (volcanic ash).
+Most early human fossils and archaeological remains derive from the upper portion of the Burgi Member, the KBS Member, and the Okote Member. The members reflect changing environments in the Turkana Basin, from lake and delta ones during Burgi Member times to rivers and floodplains in Okote Member times.
+The stratigraphy of the Koobi Fora Formation is one of the best studied and calibrated in East Africa, with publication of some extensive listings at various times. Controversial dating of the KBS Tuff during the 1970s helped to spearhead the development of modern potassium/argon and argon/argon geological dating methods. In addition, the unique fusion between geochronology and mammal evolutionary studies has made the Koobi Fora Formation a standard for interpreting biochronology, environmental change, and ecology for all of Pliocene-Pleistocene Africa.
+
+Geologic Members
+A geologic "member" refers to the layer between two tuffs, or layers of volcanic ash. The member is named from the bottom tuff, considered to begin it. Tuffs are used to date the paleontological and archaeological material found within them, and are used for dating hominin sites in East Africa generally.
+Chari Member  (1.39-0.6 ma)
+Okote Member  (1.64-1.39 ma)
+
+Notable sites include FwJj70, which provides evidence for early hominin access to limb flesh packages, bone marrow consumption, and competition with other carnivorous consumers. The FwJj20 site complex has yielded evidence for hominin fire use at 1.5 ma.
+KBS Member  (1.89-1.64 ma)
+
+Notable finds include iconological evidence of Pliocene fish nests, thought to have been made by fish shoveling dirt with their mouths.
+Burgi Member (Includes Upper Burgi)  (2.6-1.89 ma)
+
+Notable finds includes KNM-ER 64060, which displays dentition exhibiting a greater overall similarity to specimens such as OH 7 and OH 16 that represent Homo habilis sensu stricto.
+Tulu Bor Member  (3.35-2.6 ma)
+
+Notable finds include an Australopithecus afarensis partial cranium from Area 117, which filled an important geographic gap between the Ethiopian and Tanzanian distributions of this species.
+Lokochot Member  (3.5-3.35 ma)
+Moiti Member  (4.1-3.5 ma)
+Lonyumun Member (4.3-4.1 ma)

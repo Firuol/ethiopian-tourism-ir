@@ -1,0 +1,46 @@
+Document ID: ET323
+Title: Ethiopian calendar
+URL: https://en.wikipedia.org/wiki/Ethiopian_calendar
+Source: Wikipedia
+Topic: overview
+License: CC BY-SA 4.0
+
+The Geʽez calendar or Geʽez calendar is the official state civil calendar of Ethiopia and serves as Orthodox calendar in Eritrea, and among Ethiopians and Eritreans in the diaspora. It is also an ecclesiastical calendar for Ethiopian Christians and Eritrean Christians belonging to the Orthodox Tewahedo, Eastern Catholic, and P'ent'ay churches.
+The Geʽez calendar is a solar calendar that has much in common with the Coptic calendar of the Coptic Orthodox Church of Alexandria and Coptic Catholic Church, but like the Julian calendar, it adds a leap day every four years without exception, and begins the year on 11 or 12 September in the Gregorian calendar (from 1900 to 2099). Its epoch (first day of first year) equates to 29 August 8 AD. The neighbouring Coptic calendar is very similar to the Ethiopian calendar, except that it has a different epoch (29 August, 284 AD) and different names for the days of the week and months of the year.
+The Ethiopian calendar has twelve months, all thirty days long, and five or six epagomenal days, which form a thirteenth month. The Ethiopian months begin on the same days as those of the Coptic calendar, but their names are in Geʽez. A sixth epagomenal day is added every four years, without exception, on 29 August of the Julian calendar, six months before the corresponding Julian leap day. Thus, the first day of the Ethiopian calendar year, 1 Mäskäräm, for years between 1900 and 2099 (inclusive), is usually 11 September (Gregorian). It falls on 12 September in years before the Gregorian leap year, however.
+
+New Year's Day
+
+The Ethiopian New Year is called Kudus Yohannes in Geʽez and Tigrinya, while in Amharic, the official language of Ethiopia, it is called Enkutatash meaning "gift of jewels". It occurs on 11 September in the Gregorian calendar; except for the year preceding a leap year, when it occurs on 12 September. The Ethiopian Calendar Year 1998 Amätä Məhrät ("Year of Mercy") began on Gregorian calendar 11 September 2005. The Ethiopian calendar years 1992 and 1996, however, began on the Gregorian dates of 12 September in 1999 and 2003, respectively.
+This date correspondence applies for Gregorian years 1900 to 2099. The Ethiopian calendar leap year is every four without exception, while Gregorian centurial years are only leap years when exactly divisible by 400; thus, a set of corresponding dates will most often apply for a single century. As the Gregorian year 2000 is a leap year, the current correspondence lasts two centuries instead.
+The start of the year (the Feast of El-Nayrouz) falls on 29 or 30 August (on the year just before the Julian leap year). This date corresponds to the Old-Style Julian calendar; the start of the year has been transferred forward in the currently used Gregorian calendar to 11 or 12 September (on the year just before the Gregorian leap year). This deviation between the Julian and the Gregorian Calendar will increase with the passing of the time.
+
+Eras
+
+Incarnation era
+
+To indicate the year, followers of the Ethiopian and Eritrean churches today use the Incarnation Era, which dates from the Annunciation of the Incarnation of Jesus on 25 March AD 9 (Julian), as calculated by Annianus of Alexandria c. 400; thus, its first civil year began seven months earlier on 29 August AD 8. Meanwhile, Europeans eventually adopted the calculations made by Dionysius Exiguus in AD 525 instead, which placed the Annunciation nine years earlier (Anno Domini#New year) than had Annianus. This causes the Ethiopian year number to be eight years less than the Gregorian year number from January 1 until 10 or 11 September, then seven years less for the remainder of the Gregorian year.
+
+Past eras
+In the past, a number of other eras for numbering years were also widely used in Ethiopia, Eritrea, and the Kingdom of Aksum.
+
+Era of Martyrs
+
+The most important era – once widely used by Eastern Christianity, and still used by the Coptic Orthodox Church of Egypt –  was the Era of Martyrs, also known as the Diocletian Era, or the era of Diocletian and the Martyrs, whose first year began on 29 October 328.
+Respective to the Gregorian and Julian New Year's Days, 3½ to 4 months later, the difference between the Era of Martyrs and the Anno Domini is 285 years (285= 15×19). This is because in AD 525, Dionysius Exiguus decided to add 15 Metonic cycles to the existing 13 Metonic cycles of the Diocletian Era (15×19 + 13×19 = 532) to obtain an entire 532 year medieval Easter cycle, whose first cycle ended with the year Era of Martyrs 247 (= 13×20) equal to year DXXXI. It is also because 532 is the product of the Metonic cycle of 19 years and the solar cycle of 28 years. It has 13 months in a year.
+
+Anno Mundi
+
+According to Panodoros
+Around AD 400, an Alexandrine monk called Panodoros fixed the Alexandrian Era (Anno Mundi = in the year of the world) and the date of creation, on 29 August 5493 BC. After the 6th century AD, the era was used by Egyptian, Ethiopian, and Eritrean chronologists. The twelfth 532 year-cycle of this era began on 29 August AD 360, and so 4×19 years after the Era of Martyrs.
+
+According to Anianos
+Bishop Anianos preferred the Annunciation as New Year's Day, 25 March. Thus he shifted the Panodoros era by about six months (to begin on 25 March 5492 BC). In the Ethiopian calendar this was equivalent to 15 Magabit 5501 B.C. (E.C.). The Anno Mundi era remained in usage until the late 19th century.
+
+Leap year cycle
+The four-year leap year cycle is associated with the four Evangelists: the first year after an Ethiopian leap year is named the John-year, followed by the Matthew-year, and then the Mark-year. The year with the sixth epagomenal day is traditionally designated as the Luke-year.
+A leap year has 6 days in the thirteenth month Pagumen (ጳጉሜን), and occurs every 4 years without exception. Pagumen has 5 days during a non-leap year.
+
+Months
+
+These Gregorian dates are valid only from March 1900 to February 2100. This is because 1900 and 2100 are not leap years in the Gregorian calendar, while they are in the Ethiopian calendar, meaning dates before 1900 and after 2100 will be offset.

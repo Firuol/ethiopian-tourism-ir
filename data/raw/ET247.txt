@@ -1,0 +1,112 @@
+Document ID: ET247
+Title: Geʽez script
+URL: https://en.wikipedia.org/wiki/Ge%CA%BDez_script
+Source: Wikipedia
+Topic: culture
+License: CC BY-SA 4.0
+
+Geʽez ( GEE-ez; Ge'ez: ግዕዝ, romanized: Gəʽəz, IPA: [ˈɡɨʕɨz] ) is an abugida used to write several Afro-Asiatic and Nilo-Saharan languages of Ethiopia and Eritrea. It originated as an abjad (consonantal alphabet) and was first used to write the Geʽez language, now the liturgical language of the Ethiopian Orthodox Tewahedo Church, the Eritrean Orthodox Tewahedo Church, the Eritrean Catholic Church, the Ethiopian Catholic Church, and Haymanot Judaism of the Beta Israel Jewish community in Ethiopia. In the languages Amharic and Tigrinya, the script is often called fidäl (ፊደል), meaning "script" or "letter". Under the Unicode Standard and ISO 15924, it is defined as Ge'ez text.
+
+The Geʽez script has been adapted to write other languages, mostly Ethiopian and Eritrean Semitic, particularly Amharic in Ethiopia, and Tigrinya in both Eritrea and Ethiopia. It has also been used to write Sebat Bet and other Gurage languages and at least 20 other languages of Ethiopia. In Eritrea it has traditionally been used for Tigre and just recently for Bilen. The Geʽez script has also recently been used to write Anuak, and used in limited extent to write some other Nilo-Saharan Nilotic languages, including Majang languages.  It was also used in the past to write some Omotic languages, including Wolaytta, Bench, Hamer, and Kafa.
+For the representation of sounds, this article uses a system that is common (though not universal) among linguists who work on Ethiopian Semitic languages. This differs somewhat from the conventions of the International Phonetic Alphabet. See the articles on the individual languages for information on the pronunciation.
+
+History and origins
+
+The Geʽez script was derived from the Ancient South Arabian script, and despite its name its origins are debated, and may have originated in what is now Eritrea, Ethiopia, or Yemen. The earliest inscriptions of Semitic languages in Eritrea date to the 9th century BCE and are known as Epigraphic South Arabian (ESA), an abjad shared with contemporary kingdoms in the Southern part of the Arabian Peninsula.
+After the 7th and 6th centuries BCE, variants of the South Arabian script arose, evolving in the direction of the later Geʻez abugida or alphasyllabary. This evolution can be seen most clearly in evidence from inscriptions (mainly graffiti on rocks and caves) in the Tigray Region in northern Ethiopia and in multiple parts of Eritrea mainly in the former province of Akele Guzai. The oldest known example of the Geʽez script is the Hawulti obelisk in Matara, Eritrea.
+By the first centuries CE, what is called "Old Ethiopic" or the "Old Geʻez writing system" arose, an abjad written right-to-left (as opposed to boustrophedon like ESA) with letters basically identical to the first-order forms of the modern vocalized writing system (e.g. "k" in the form of "kä"). There were also minor differences, such as the letter "g" facing to the right instead of to the left as in vocalized Geʻez, and a shorter left leg of "l", as in ESA, instead of equally-long legs in vocalized Geʻez (somewhat resembling the Greek letter lambda).
+Vocalization of Geʻez occurred in the 4th century, and though the first completely vocalized texts known are inscriptions by Ezana, vocalized letters predate him by some years, as an individual vocalized letter exists in a coin of his predecessor, Wazeba of Axum. Linguist Roger Schneider has also pointed out, in an unpublished early 1990s paper, anomalies in the known inscriptions of Ezana of Axum that imply that he was consciously employing an archaic style during his reign, indicating that vocalization could have occurred much earlier.
+As a result, some  believe that the vocalization may have been adopted to preserve the pronunciation of Geʻez texts due to the already moribund or extinct status of Geʻez, and that, by that time, the common language of the people were already later the Eritrean and Ethiopian Afro-Asiatic languages. At least one of Wazeba's coins from the late 3rd or early 4th century contains a vocalized letter, some 30 or so years before Ezana. Kobishchanov, Peter T. Daniels, and others have suggested possible influence from the Brahmic scripts in vocalization, as they are also abugidas, and the Kingdom of Aksum was an important part of major trade routes involving India and the Greco-Roman world throughout classical antiquity.
+
+According to the beliefs of the Eritrean Orthodox Tewahedo Church and Ethiopian Orthodox Tewahedo Church, the original consonantal form of the Geʻez fidäl was divinely revealed to Enos "as an instrument for codifying the laws", and the present system of vocalisation is attributed to a team of Aksumite scholars led by Frumentius (Abba Selama), the same missionary said to have converted King Ezana to Christianity in the 4th century. It has been argued that the vowel marking pattern of the script reflects a South Asian system such as would have been known by Frumentius. A separate tradition, recorded by Aleqa Taye, holds that the Geʻez consonantal writing system was first adapted by Zegdur, a legendary king of the Agʻazyan Sabaean dynasty held to have ruled in Abyssinia (Eritrea and Ethiopia) c. 1300 BCE.
+Geʻez has 26 consonantal letters. Compared to the inventory of 29 consonants in the South Arabian writing system, the continuants ġ, ẓ, and South Arabian s3  (Geʻez Sawt ሠ being derived from South Arabian s2 ) are missing, as are ḏ and ṯ; these last two absences reflect the collapse of the interdental with the alveolar fricatives. On the other hand, emphatic P̣ait ጰ, a Geʻez innovation, is a modification of Ṣädai ጸ, while Psa ፐ is based on Tawe ተ.
+
+Thus, there are 24 correspondences of Geʻez and the South Arabian writing system:
+
+Many of the letter names are cognate with those of Phoenician, and may thus be assumed for the Proto-Sinaitic script.
+
+Geʽez writing system
+Two writing systems were used to write the Geʽez language: an abjad and, later, an abugida.
+
+Geʽez abjad
+The abjad, used until the advent of Christianity (ca. AD 350), had 26 consonantal letters, transliterated as:
+
+h, l, ḥ, m, ś, r, s, ḳ, b, t, ḫ, n, ʾ, k, w, ʿ, z, y, d, g, ṭ, p̣, ṣ, ṣ́, f, p
+It was properly written right-to-left. Vowels were not indicated.
+
+Geʽez abugida
+
+Modern Geʽez is written from left to right.
+During the adoption or introduction of Christianity, the Geʽez abugida developed under the influence of Christian scripture by adding obligatory vocalic diacritics to the consonantal letters. The diacritics for the vowels, u, i, a, e, ə, o, were fused with the consonants in a recognizable but slightly irregular way, so that the system is laid out as a syllabary. The original form of the consonant was used when the vowel was ä (/ə/), the so-called inherent vowel. The resulting forms are shown below in their traditional order. For most consonants there is an eighth form for the diphthong -wa or -oa, and for a number of those a ninth form for -jä.
+To represent a consonant with no following phonemic vowel, for example at the end of a syllable or in a consonant cluster, the ə (/ɨ/) form is used (the character in the sixth column).
+
+Labiovelar variants
+The letters for the labialized velar consonants are variants of the non-labialized velar consonants:
+
+Unlike the other consonants, these labiovelar ones can be combined with only five different vowels:
+
+Adaptations to other languages
+The Geʽez abugida has been adapted to several modern languages of Eritrea and Ethiopia, frequently requiring additional letters. It has been speculated by some scholars in African studies that the Geʽez script had an influence on the Armenian alphabet after it may have been introduced to Armenia at the end of the fifth century.
+
+Additional letters
+Some letters were modified to create additional consonants for use in languages other than Geʽez. This is typically done by adding a horizontal line at the top of a similar-sounding consonant.
+
+The vocalised forms are shown below. Like the other labiovelars, these labiovelars can only be combined with five vowels.
+
+Letters used in modern abugidas
+The Amharic abugida uses all the basic consonants plus the ones indicated below. Some of the Geʽez labiovelar variants are also used.
+The Tigrinya abugida has all the basic consonants, the Geʽez labiovelar letter variants, except for ḫʷ (ኈ), plus the ones indicated below. A few of the basic consonants are falling into disuse in Eritrea (as they used "ጸ" for "ፀ"). See Tigrinya language#Writing system for details.
+The Tigre abugida uses the basic consonants except for ś (ሠ), ḫ (ኀ) and ḍ (ፀ). It also uses the ones indicated below. It does not use the Geʽez labiovelar letter variants.
+The Bilen abugida uses the basic consonants except for ś (ሠ), ḫ (ኀ) and ḍ (ፀ). It also uses the ones indicated below and the Geʽez labiovelar letter variants.
+The Harari abugida uses the basic consonants except for ś (ሠ), ḫ (ኀ),  ʽ (ዐ), p̣ (ጰ), ṣ (ጸ), and ḍ (ፀ). Although h (ሀ) is occasionally used, ḥ (ሐ) is strongly favored. As Harari used the Arabic script before adopting the Geʽez script, Arabic phonemes entered the language due to loanwords and language contact and were ascribed to specific consonant forms when the Geʽez script was first adopted for the language. ḥ from (ح) was assigned to (ሐ), ṫ from (ث) to (ሠ), gh from (غ) to (ኀ), kh from (خ) to (ኸ), ʽ from (ع) to (ዐ), dˁ from (ض) to (ጰ), and dh from (ذ) to (ፀ). It also uses the ones indicated below.
+
+Note: "V" is used for words of foreign origin except for in some Gurage languages, e.g. cravat 'tie' from French. The consonant symbol "ኸ" is pronounced as "h" in Amharic.
+
+List order
+For Geʽez, Amharic, Tigrinya and Tigre, the usual sort order is called haläħamä (h–l–ħ–m). Where the labiovelar variants are used, these come immediately after the basic consonant and are followed by other variants. In Tigrinya, for example, the letters based on ከ come in this order: ከ, ኰ, ኸ, ዀ. In Bilen, the sorting order is slightly different.
+The alphabetical order is similar to that found in other South Semitic scripts, as well as in the ancient Ugaritic alphabet, which attests both the southern Semitic h-l-ħ-m order and the northern Semitic ʼ–b–g–d (abugida) order over three thousand years ago.
+
+Numerals
+
+Geʽez uses an additional alphabetic numeral system comparable to the Hebrew, Arabic abjad and Greek numerals. It is reduced from these systems in that it lacks digits for the multiples of 100. For example, 475 is written (፬፻፸፭, that is "4-100-70-5", and 83,692 is (፰፼፴፮፻፺፪ "8–10,000-30-6-100-90-2". The digits historically are Greek letters over- and under-lined with a vinculum.
+
+Ethiopian numerals were borrowed from the Greek numerals, possibly via Coptic uncial letters.
+
+Punctuation
+Punctuation, much of it modern, includes
+
+፠ section mark
+፡ word separator
+። full stop (period)
+፣ comma
+፥ colon
+፤ semicolon
+፦ preface colon. Uses:
+In transcribed interviews, after the name of the speaker whose transcribed speech immediately follows; compare the colon in western text
+In ordered lists, after the ordinal symbol (such as a letter or number), separating it from the text of the item; compare the colon, period, or right parenthesis in western text
+Many other functions of the colon in western text
+፧ question mark
+፨ paragraph separator
+
+Tone marks
+Tone marks for multiline scored layout are:
+
+᎐ yizet
+᎑ deret
+᎒ rikrik
+᎓ short rikrik
+᎔ difat
+᎕ kenat
+᎖ chiret
+᎗ hidet
+᎘ deret-hidet
+᎙ kurt
+
+Unicode
+
+Ethiopic has been assigned Unicode 3.0 codepoints between U+1200 and U+137F (decimal 4608–4991), containing the consonantal letters for Geʽez, Amharic and Tigrinya, punctuation and numerals. Additionally, in Unicode 4.1, there is the supplement range from U+1380 to U+139F (decimal 4992–5023) containing letters for Sebat Bet and tonal marks, and the extended range between U+2D80 and U+2DDF (decimal 11648–11743) containing letters needed for writing Sebat Bet, Meʼen and Bilen. In Unicode 6.0, there is the extended-A range from U+AB00 to U+AB2F (decimal 43776–43823) containing letters for Gamo-Gofa-Dawro, Basketo and Gumuz. Finally in Unicode 14.0, there is the extended-B range from U+1E7E0 to U+1E7FF (decimal 124896–124927) containing additional letters for Gurage languages.
+
+In Western culture
+Geʽez is a sacred script in the Rastafari movement. Roots reggae musicians have used it in album art.
+The films 500 Years Later (፭፻-ዓመታት በኋላ) and Motherland (እናት ሀገር) are the first two mainstream Western documentaries to use Geʽez characters in the titles. The script also appears in the trailer and promotional material of the films.
+In October 2020, tweets by Donald Trump relating to his COVID-19 infection attracted responses with an uncanny image accompanied by copypasta Geʽez script, often an Amharic curse, which sought to troll Trump's Christian supporters with the implication that Geʽez script, along with Armenian and Georgian script, look demonic or satanic. Amharic was then used to evade hate speech detection on TikTok.

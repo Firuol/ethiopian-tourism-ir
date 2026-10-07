@@ -1,0 +1,37 @@
+Document ID: ET179
+Title: Mota Cave, Ethiopia
+URL: https://en.wikipedia.org/wiki/Mota_Cave,_Ethiopia
+Source: Wikipedia
+Topic: archaeology
+License: CC BY-SA 4.0
+
+Mota Cave is a cave located in the Gamo Zone of southwestern Ethiopia. The cave is located on the western escarpment of the northern Boreda Gamo Highlands at 1,963 meters above sea level. The cave has experienced periods of occupation from 4520 cal BP to 300 BP. Mota Cave is notable for the discovery of a burial from 4,500 BP that revealed genetic adaptations and migration patterns of the ancestors of people in the area.
+
+Discovery and Excavation
+
+Discovery
+Mota Cave was located in 2011 with the help of local Boreda elders, who revealed that the cave has played a significant role in local religious practices. Partial excavation of the site occurred in 2012. Favorable taphonomic conditions in the cave allowed for good preservation of material culture, flora, and fauna. The cave dimensions are 14 meters in width by 9 meters in depth. A waterfall drains over the front of the cave.
+Radiocarbon analysis of sediment layers revealed a few hearths present within interspersed sediment layers, as well as one human burial with a cairn. Radiocarbon dating revealed three major time periods that are represented by layers in the cave: the Pre-Pottery period (4520-3340 cal BP), the Early Pottery period (2370-1620 cal BP), and the Historic period (330 cal BP to 300 BP).
+
+Material Culture
+The earliest occupation of Mota Cave was a period from around 4520 to 3340 cal BP, and the site was occupied by hunters, gatherers, and fisher people. Excavation of the site revealed tilapia fishbone from 4520 cal BP, evidence that people were acquiring fish in the area through some means. X-ray fluorescence spectrometry of 65 obsidian pieces from the Pre-Pottery period (the earliest occupation) revealed that raw materials for microlithic tool production at the site came from three distinct sources.
+The faunal and lithic remains found in the cave indicate that occupants during the Pre-Pottery period were hunter-gatherers constructing small tools made primarily of obsidian. Stone tool production equipment such as cores and a hammerstone excavated at the site indicate that occupants were making tools inside the cave.
+Excavation correlating to the Early Pottery period shows evidence of barley and cereal farming as well as hunting still being an important source of dietary protein. Pottery sherds and obsidian debitage show evidence of pottery and microlithic tool production during this period.
+The Historic period shows far heavier use of ceramics but less stone tool production than in the Early Pottery period. These residents likely engaged in hunting and gathering as well. Serving vessels, such as bowls and plates, were found towards the front of the cave, which aligns with the statements by local elders that their ancestors brought barley beer and animals’ blood to the entrance of the cave as religious offerings. It is also likely that many of the vessels were used for food storage and cooking purposes.
+
+Notable burial
+Mota Cave was used to bury local dead beginning near 4,500 BP, an estimation based on radiocarbon dating. Excavations into the burial site revealed the skeleton of an adult male of around 30 to 50 years old. This individual is commonly referred to as "Mota" in genetics literature but was nicknamed “Bayira” by the excavators, meaning “firstborn” in the Gamo language. The orientation of the buried body was in a north–south direction with its head fully flexed and laid on a piece of bedrock. Upon unearthing the body, the bones were fragmented and displaced due to the weight of the stone on top of it. Items placed around Mota's body include a geode and calcite while the rest of the burial site included items such as flakes and blades. Mota's burial site is the only known burial from around 4,500 BP in southwestern Ethiopia.
+
+Genetic insights
+
+Sequencing Methods
+In order to obtain any genetic sequencing information from Mota's skeletal remains, a sample was taken from the petrous bone. This sample was used to extract the aDNA of the remains and reconstruct Mota's genome. Comparative Eurasian genomes were used to analyze Mota's genome. Mota's genome revealed a lack of alleles common in Eurasian populations, revealing that he likely had brown eyes, dark skin, and lactose intolerance. Genetically, Mota is most similar to the Ari ethnic group, which presently live in southwestern Ethiopia and speak Omotic languages.
+
+Genetic Adaptations
+Mota's skeletal remains were analyzed to find any morphologically distinct characteristics. His skeleton is small and gracile, and therefore must have had a low body mass. This is typical of highland adaptation, which current populations in the area also have in common. Using measurements of femur and tibia portions, Mota's height was estimated to be around 154.8 centimeters or 158.2 centimeters, as well as a body mass of around 55.16 kilograms. aDNA obtained from Mota's remains revealed a SNP variant in the LIPE and UBAP2 genes, which correlate to adaptation to high altitudes.
+
+Migration
+Mota's skeleton is significant in that he predates West Eurasian backflow, which is presumed to have occurred around about 3000 years ago. Comparison of present genomes with aDNA from Mota and West Eurasian populations has revealed that as much as a quarter of present-day East African population genomes originates from West Eurasian migration, which occurred long after Mota's death. Those in the western and southern areas of the continent share at least five percent of their genome with Eurasian migrants. Contemporary African populations used as African genome models, such as Yoruba and Mbuti populations, have been shown to contain around 0.2 to 7% Neanderthal components via F4 ratio analysis, so these contemporary populations are closer in affinity to Neanderthals than the individual at Mota Cave.
+
+Relevance
+Upon its discovery, the Mota aDNA provided a key African genome model with less Eurasian component than is seen in contemporary African genome models, giving scientists a better genetic representation of previous hunter-gatherer populations in the area. Since Mota's discovery, older African aDNA, such as 15,000 year old aDNA from Taforalt cave in Morocco, have been recovered.
